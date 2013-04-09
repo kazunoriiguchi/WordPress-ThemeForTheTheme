@@ -6,4 +6,4 @@ WordPress-ThemeForTheTheme
 <p>WordPressのテーマを作る時用のテーマ（ようするに何もない）です。</p>
 <p>良かったら使ってください。</p>
 
-Theme URI: <a href="http://kots.jp/blog/wordpress/6884/" target="_blank">http://kots.jp/blog/wordpress/6884/</a>
+Theme URI: <a href="http://kots.jp/blog/wordpress/6884/">http://kots.jp/blog/wordpress/6884/</a>
