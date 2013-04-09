@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+/*
+Theme Name: Theme for the Theme
+Theme URI: http://kots.jp/blog/wordpress/6884/
+Description: Theme for the Theme. テーマ作成時やテスト、学習時などにご利用ください。
+Author: Kazunori Iguchi
+Author URI: http://www.kots.jp/
+Version: 1.0.1
+License: GNU General Public License
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: HTML5, Basic, Simple, Template, white, Responsive
+*/
+
+
+/* common
+---------------------------------*/
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFF;
+	color: #666;
+	font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", sans-serif;
+	font-size: 62.5%;
+}
+section, nav, article, aside, hgroup, header, footer, address, figure {
+	margin: 0;
+	padding: 0;
+}
+
+
+/*--------------------------------------
+@Media Queries
+--------------------------------------*/
+
+/* 320px ------------------------*/
+@media all and (max-width: 319px) {
+}
+
+/* 320px ------------------------*/
+@media all and (min-width: 320px) {
+}
+
+/* 480px ------------------------*/
+@media all and (min-width: 480px) {
+}
+
+/* 768px ------------------------*/
+@media all and (min-width: 768px) {
+}
+
+/* 1024px ------------------------*/
+@media all and (min-width: 1024px) {
+}
+
+/* 1280px ------------------------*/
+@media all and (min-width: 1280px) {
+}
